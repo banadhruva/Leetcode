@@ -7,4 +7,5 @@ class Solution(object):
         else: return None  # if not (fast and fast.next): return None
         while head != slow:
             head, slow = head.next, slow.next
+
         return head

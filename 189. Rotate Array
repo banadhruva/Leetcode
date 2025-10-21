@@ -1,5 +1,6 @@
 class Solution:
     def reverse (self, nums, i, j) : 
+
         li = i
         ri = j
         

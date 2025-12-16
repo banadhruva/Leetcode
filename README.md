@@ -4,7 +4,7 @@ This repository is a curated collection of my solutions to various algorithmic c
 
 ## 🚀 Overview
 
-- [**Primary Languages:** Python 
+- **Primary Language:** Python 
 - **Goal:** Solving problem daily to sharpen analytical and optimization skills.
 - **Focus Areas:** Arrays, Strings, Linked Lists, Binary Search Trees, and Machine Learning-related algorithms.
 
